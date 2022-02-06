@@ -1,9 +1,9 @@
 const CONFIG = {
     titleWeb: "Gửi Gơn Linh''
     introTitle: 'Khánh Linh'
-    introDesc: `Là 1 boiz tỉnh táo
-    T không mê tín 
-    T mê Khánh Linh',
+    introDesc: 'Là 1 boiz tỉnh táo
+    'T không mê tín 
+    'T mê Khánh Linh',
     btnIntro: '^^HiHi^^',
     title: 'Duyên trời sắp đặt rồi',
     desc: 'Thích thì lói 1 tiếng đê',
