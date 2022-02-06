@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Là một người tỉnh táo
     T không mê tín
     T mê Khánh Linh
-    Đcm ngại vl :33`,
+    Đcm ngại vl :333`,
     btnIntro: '^^HiHi^^',
     title: 'Số trời cả rồi',
     desc: 'Dân chơi không thích lòng vòng , lói 1 tiếng đê ',
