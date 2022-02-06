@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Gửi Gơn Linh",
     introTitle: 'Khánh Linh',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Là một người tỉnh táo
+    T không mê tín
+    T mê Khánh Linh
+    Đcm ngại vl :33`,
     btnIntro: '^^HiHi^^',
     title: 'Số trời cả rồi',
     desc: 'Dân chơi không thích lòng vòng , lói 1 tiếng đê ',
